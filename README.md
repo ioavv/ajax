@@ -1,2 +1,9 @@
-# ajax
-Simple Calculator based on Erlang 
+ajax
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
